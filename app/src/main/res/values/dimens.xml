@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="standard">16dp</dimen>
+    <dimen name="double_standard">32dp</dimen>
+    <dimen name="zero">0dp</dimen>
+
+</resources>
+

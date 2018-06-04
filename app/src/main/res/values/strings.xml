@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">InventoryApp</string>
+
+    <string name="action_fake_data">Insert example data</string>
+    <string name="action_delete_products">Delete all entries</string>
+    <string name="save_icon">Save icon</string>
+    <string name="inventoryapp">/inventoryapp</string>
+    <string name="invent">inventoryapp</string>
+
+    <string name="supplier1">Supplier one</string>
+    <string name="supplier2">Supplier two</string>
+    <string name="supplier3">Supplier three</string>
+    <string name="supplier4">Supplier four</string>
+    <string name="supplier5">Supplier five</string>
+    <string name="supplier6">Supplier six</string>
+    <string name="supplier7">Supplier seven</string>
+
+    <!-- activity_editor.xml strings -->
+    <string name="book_title">Book title:</string>
+    <string name="book_title_hint">Book title</string>
+    <string name="supplier_name">Supplier Name:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="quantity">Quantity:</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="price">Price:</string>
+    <string name="price_hint">Price</string>
+    <string name="price_label">USD</string>
+
+    <!-- EditorActivity class strings -->
+    <string name="unfilled_fields">Please fill the empty fields.</string>
+    <string name="unfilled_quantity">Please enter the quantity.</string>
+    <string name="unfilled_price">Please enter the book price.</string>
+    <string name="unfilled_title">Please enter the book title.</string>
+    <string name="database_writing_error">There was an error with saving the book.</string>
+    <string name="successful_database_save">The book has been saved with row id:\u0020</string>
+
+    <!-- MainActivity class strings -->
+    <string name="header_align">&lt;big>&lt;p style=text-align:center>&lt;b>&lt;font color=\'blue\'></string>
+    <string name="contains">The inventory table contains:\u0020&lt;/font>&lt;/b>&lt;/big></string>
+    <string name="font_color">&lt;big>&lt;font color=\'black\'></string>
+    <string name="book">\u0020book&lt;/font>&lt;/big>&lt;/p></string>
+    <string name="books">\u0020books&lt;/font>&lt;/big>&lt;/p></string>
+    <string name="header">&lt;big>&lt;b>&lt;font color=\'blue\'>Header:&lt;/font>&lt;/b>&lt;/big></string>
+    <string name="inventory">&lt;big>&lt;b>&lt;font color=\'blue\'>Inventory:&lt;/font>&lt;/b>&lt;/big></string>
+    <string name="supplier_name_cursor">Supplier name:\u0020</string>
+    <string name="phone_cursor">Phone number:\u0020</string>
+    <string name="quantity_cursor">Quantity:\u0020</string>
+    <string name="price_cursor">Price:\u0020</string>
+    <string name="unit_cursor">\u0020USD&lt;/b>"</string>
+    <string name="example_title">Android Design Patterns and Best Practice</string>
+    <string name="example_phone_number">(123)\u0020123&#8211;1234</string>
+    <string name="example_data">example data</string>
+    <string name="cursor_data">cursor data</string>
+
+</resources>
